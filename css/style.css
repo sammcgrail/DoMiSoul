@@ -16,3 +16,12 @@ body {
   font-weight: 300;
   margin-top: 250px;
 }
+
+.band-info {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+  color: grey;
+  font-weight: 300;
+}
