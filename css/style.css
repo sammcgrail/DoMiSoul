@@ -5,3 +5,14 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.title-text {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  width: 100%;
+  font-size: 50px;
+  letter-spacing: 1px;
+  color: white;
+  font-weight: 300;
+  margin-top: 250px;
+}
