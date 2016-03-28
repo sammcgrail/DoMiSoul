@@ -6,3 +6,5 @@ function consoleplay() {
 
 console.log("outside function")
 // window.alert(5 + 6);
+
+consoleplay(); 
